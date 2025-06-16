@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-**HealNext** is not just a project—it's a mission to revolutionize Indian healthcare using Generative AI. From rural clinics to urban hospitals, we aim to reduce inefficiencies, automate administrative overload, and empower both patients and healthcare providers with AI-driven tools.
+**HealNex** is not just a project—it's a mission to revolutionize Indian healthcare using Generative AI. From rural clinics to urban hospitals, we aim to reduce inefficiencies, automate administrative overload, and empower both patients and healthcare providers with AI-driven tools.
 
 ---
 
@@ -21,7 +21,7 @@ India’s healthcare system is burdened by manual paperwork, delayed diagnosis, 
 
 ## 💡 Solution Summary
 
-HealNext uses Generative AI to:
+HealNex uses Generative AI to:
 
 - Scan reports, prescriptions, and X-rays for critical insights
 - Convert voice to structured medical records
