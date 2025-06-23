@@ -3,7 +3,7 @@
 🚀 Built for **GenAI Hackathon by Jazzee Edtech**
 
 📄 **[BycrptX_AniketSubudhi_Jazzee2025_Document](./BycrptX_AniketSubudhi_Jazzee2025_Document.pdf)**  
-🎥 **[BycrptX_AniketSubudhi_Jazzee2025_PitchVideo](https://youtu.be/SQrBRzwpMa8)**
+🎥 **[BycrptX_AniketSubudhi_Jazzee2025_PitchVideo](https://youtu.be/ih4nDxHwpkI)**
 
 ---
 
