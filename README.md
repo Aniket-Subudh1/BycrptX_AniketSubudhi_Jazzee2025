@@ -7,6 +7,10 @@
 
 ---
 
+**System Design**
+
+📎 **[System Design Dynamic](https://www.dezyn.io/shared/3f770583-33fc-4366-b006-a55bee70d883)**  
+📎 **[System Design Static](https://app.eraser.io/workspace/VmiNwoAZjQrECQmrLILj?origin=share)**
 ## 📌 Overview
 
 **DeployLite** is an AI-powered cloud platform that automates the complete DevOps lifecycle. From code to production, it simplifies deployment, infrastructure management, and scaling for full-stack and ML apps. At its core is **CodeOps AI**, a GenAI agent that acts as a junior DevOps engineer—writing Dockerfiles, fixing errors, scaling infra, and deploying with just voice or prompt.
